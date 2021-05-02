@@ -2,12 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-
-  <name>EventBus</name>
   <groupId>com.jdotsoft</groupId>
-  <packaging>jar</packaging>
   <artifactId>jdotsoft-eventbus</artifactId>
   <version>2.1</version>
+  <packaging>jar</packaging>
+
+  <name>EventBus</name>
+  <description>Simple Java EventBus</description>
+  <url>http://www.jdotsoft.com/EventBus.php</url>  
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
