@@ -3,7 +3,8 @@ Simple Java EventBus.
 
 Follow steps to start using `EventBus`.
 These steps are *by example* used in a Swing demo application in this project located in `test -> com.jdotsoft.eventbus.demo.EventBusDemo`
-See also http://www.jdotsoft.com/EventBus.php
+
+See also [http://www.jdotsoft.com/EventBus.php](http://www.jdotsoft.com/EventBus.php)
 
 **Step 1.** Create `BlueEvent` class which extends base class `Event`.
 This class might have constructor with arguments, member variables, and any methods.
