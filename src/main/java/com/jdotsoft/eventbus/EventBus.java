@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2020 JDotSoft. All Rights Reserved.
+ * Copyright (C) 2021 JDotSoft. All Rights Reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -47,7 +47,7 @@ public class EventBus {
   /**
    * Use this method to enable logging. The default value is null, which disables events logging.
    *
-   * @param logListener instance of the {@link {@link EventListener} class.
+   * @param logListener instance of the {@link EventListener} class.
    * @return this object for method chaining.
    */
   public EventBus setEventLogListener(EventLogListener logListener) {
