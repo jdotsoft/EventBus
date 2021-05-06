@@ -18,6 +18,15 @@
     </license>
   </licenses>
 
+ <developers>
+    <developer>
+      <name>Mark Gorokhov</name>
+      <email>info@jdotsoft.com</email>
+      <organization>Jdotsoft</organization>
+      <organizationUrl>http://jdotsoft.com</organizationUrl>
+    </developer>
+  </developers>
+
   <scm>
     <connection>scm:git:git://github.com/jdotsoft/EventBus.git</connection>
     <developerConnection>scm:git:git://github.com/jdotsoft/EventBus.git</developerConnection>
